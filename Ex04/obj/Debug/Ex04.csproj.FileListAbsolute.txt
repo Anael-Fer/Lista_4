@@ -1,0 +1,15 @@
+C:\Users\1530757\source\repos\Lista04\Ex04\bin\Debug\Ex04.exe.config
+C:\Users\1530757\source\repos\Lista04\Ex04\bin\Debug\Ex04.exe
+C:\Users\1530757\source\repos\Lista04\Ex04\bin\Debug\Ex04.pdb
+C:\Users\1530757\source\repos\Lista04\Ex04\obj\Debug\Ex04.csproj.AssemblyReference.cache
+C:\Users\1530757\source\repos\Lista04\Ex04\obj\Debug\Ex04.csproj.CoreCompileInputs.cache
+C:\Users\1530757\source\repos\Lista04\Ex04\obj\Debug\Ex04.exe
+C:\Users\1530757\source\repos\Lista04\Ex04\obj\Debug\Ex04.pdb
+C:\Faculdade PUC Minas\Lista04\Ex04\bin\Debug\Ex04.exe.config
+C:\Faculdade PUC Minas\Lista04\Ex04\bin\Debug\Ex04.exe
+C:\Faculdade PUC Minas\Lista04\Ex04\bin\Debug\Ex04.pdb
+C:\Faculdade PUC Minas\Lista04\Ex04\obj\Debug\Ex04.csproj.AssemblyReference.cache
+C:\Faculdade PUC Minas\Lista04\Ex04\obj\Debug\Ex04.csproj.SuggestedBindingRedirects.cache
+C:\Faculdade PUC Minas\Lista04\Ex04\obj\Debug\Ex04.csproj.CoreCompileInputs.cache
+C:\Faculdade PUC Minas\Lista04\Ex04\obj\Debug\Ex04.exe
+C:\Faculdade PUC Minas\Lista04\Ex04\obj\Debug\Ex04.pdb
